@@ -1,0 +1,264 @@
+/*
+
+Skin Netflix v2.0.5
+Created by: Gabriel Almeida
+Buy Me a Coffee: https://bit.ly/3NlkAGU
+
+Ocean Skin For JW Player8
+https://bit.ly/3kVPdo9
+
+changelog:
+  v2.0.7
+  Fix - JWPlayer 8.27.1
+
+  v2.0.6
+  Added - Forward 10 Seconds
+
+  v2.0.5
+  New - Netflix Buffer .jw-svg-icon-buffer
+  New - Background Color .jw-tooltip-sharing
+  New - Background Color .jw-tooltip-audioTracks
+  New - SVG Icon .jw-svg-icon-audio-tracks
+  New - SVG Icon .jw-svg-icon-pip-on
+  New - SVG Icon .jw-svg-icon-pip-off
+  Added - ADBlock Modal
+  Test - JWPlayer8 JavaScript API
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+
+
+
+/* Skin Netflix CSS */
+.jwplayer.jw-skin-netflix .jw-title-primary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin: 5rem 0 0 5rem;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 600;
+}
+
+.jwplayer.jw-skin-netflix .jw-title-secondary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin: -6rem 0 0 5rem;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 500;
+}
+
+.jwplayer.jw-skin-netflix.jw-breakpoint-1 .jw-title-primary,
+.jwplayer.jw-skin-netflix.jw-breakpoint-0 .jw-title-primary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  margin: 5px;
+  font-size: 18px;
+}
+
+.jwplayer.jw-skin-netflix.jw-breakpoint-1 .jw-title-secondary,
+.jwplayer.jw-skin-netflix.jw-breakpoint-0 .jw-title-secondary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  margin: 5px;
+  font-size: 12px;
+}
+
+.jwplayer.jw-skin-netflix.jw-breakpoint-3 .jw-title-primary,
+.jwplayer.jw-skin-netflix.jw-breakpoint-2 .jw-title-primary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  margin: 5px;
+  font-size: 18px;
+}
+
+.jwplayer.jw-skin-netflix.jw-breakpoint-3 .jw-title-secondary,
+.jwplayer.jw-skin-netflix.jw-breakpoint-2 .jw-title-secondary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  margin: 5px;
+  font-size: 12px;
+}
+
+.jwplayer.jw-skin-netflix.jw-breakpoint-5 .jw-title-primary,
+.jwplayer.jw-skin-netflix.jw-breakpoint-4 .jw-title-primary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  margin: 5px;
+  font-size: 18px;
+}
+
+.jwplayer.jw-skin-netflix.jw-breakpoint-5 .jw-title-secondary,
+.jwplayer.jw-skin-netflix.jw-breakpoint-4 .jw-title-secondary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  margin: 5px;
+  font-size: 12px;
+}
+
+.jwplayer.jw-skin-netflix.jw-breakpoint-7 .jw-title-primary,
+.jwplayer.jw-skin-netflix.jw-breakpoint-6 .jw-title-primary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  margin: 5px;
+  font-size: 18px;
+}
+
+.jwplayer.jw-skin-netflix.jw-breakpoint-7 .jw-title-secondary,
+.jwplayer.jw-skin-netflix.jw-breakpoint-6 .jw-title-secondary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  margin: 5px;
+  font-size: 12px;
+}
+
+
+
+
+.jwplayer.jw-skin-netflix.jw-state-paused .jw-title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+
+.jwplayer.jw-skin-netflix.jw-state-paused .jw-controls,
+.jwplayer.jw-skin-netflix.jw-state-complete .jw-controls,
+.jwplayer.jw-skin-netflix.jw-state-buffering .jw-controls {
+  background-color: rgba(0, 0, 0, 0.50);
+  transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -webkit-transition: all 0.2s linear;
+}
+
+
+
+.jwplayer.jw-skin-netflix.jw-state-idle
+  .jw-display-icon-container
+  .jw-svg-icon-play
+  path {
+  display: none;
+}
+
+.jwplayer.jw-skin-netflix.jw-state-idle
+  .jw-display-icon-container
+  .jw-svg-icon-play {
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0Ij48cGF0aCBmaWxsPSJub25lIiBkPSJNMCAwaDI0djI0SDB6Ii8+PHBhdGggZD0iTTE5LjM3NiAxMi40MTZMOC43NzcgMTkuNDgyQS41LjUgMCAwIDEgOCAxOS4wNjZWNC45MzRhLjUuNSAwIDAgMSAuNzc3LS40MTZsMTAuNTk5IDcuMDY2YS41LjUgMCAwIDEgMCAuODMyeiIgZmlsbD0icmdiYSgyNDcsMjQ2LDI0NywxKSIvPjwvc3ZnPg==");
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+}
+
+.jwplayer.jw-skin-netflix.jw-state-idle
+  .jw-display-icon-container:hover
+  .jw-svg-icon-play {
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0Ij48cGF0aCBmaWxsPSJub25lIiBkPSJNMCAwaDI0djI0SDB6Ii8+PHBhdGggZD0iTTE5LjM3NiAxMi40MTZMOC43NzcgMTkuNDgyQS41LjUgMCAwIDEgOCAxOS4wNjZWNC45MzRhLjUuNSAwIDAgMSAuNzc3LS40MTZsMTAuNTk5IDcuMDY2YS41LjUgMCAwIDEgMCAuODMyeiIgZmlsbD0icmdiYSgyNDcsMjQ2LDI0NywxKSIvPjwvc3ZnPg==");
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+}
+
+.jwplayer.jw-skin-netflix.jw-state-idle
+  .jw-display-icon-container
+  .jw-svg-icon-play {
+  background-color: rgba(255, 255, 255, 0.25);
+  border-radius: 100%;
+}
+
+.jwplayer.jw-skin-netflix.jw-state-idle
+  .jw-display-controls
+  .jw-display-icon-container
+  .jw-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.jwplayer.jw-skin-netflix.jw-state-paused .jw-title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.jwplayer.jw-skin-netflix.jw-state-paused .jw-controls,
+.jwplayer.jw-skin-netflix.jw-state-complete .jw-controls,
+.jwplayer.jw-skin-netflix.jw-state-buffering .jw-controls {
+  background-color: rgba(0, 0, 0, 0.35);
+  transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -webkit-transition: all 0.2s linear;
+}
+
+.jwplayer.jw-skin-netflix
+  .jw-display-controls
+  .jw-display-icon-container
+  .jw-icon:hover {
+  color: var(--bg-red);
+}
+

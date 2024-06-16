@@ -1,0 +1,956 @@
+[
+
+       {    
+            "name": "1. Calendar / कैलेंडर",
+            "id": "1-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-02-11-0.14036986839518373.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Calendar / कैलेंडर",
+            "id": "1-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-02-13-0.9338900489825501.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Calendar / कैलेंडर",
+            "id": "1-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-02-14-0.9246140582149249.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Calendar / कैलेंडर",
+            "id": "1-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-02-15-0.6161572721496926.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "5. Calendar / कैलेंडर",
+            "id": "1-5",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-02-17-0.14247938276157446.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "6. Calendar / कैलेंडर",
+            "id": "1-6",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-02-18-0.41990609948943103.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "7. Calendar / कैलेंडर",
+            "id": "1-7",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-02-20-0.837364206540993.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "8. Calendar / कैलेंडर",
+            "id": "1-8",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-02-21-0.4726280906784417.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Calendar / कैलेंडर (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-02-24-0.7494981640576048.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Dice / पासा",
+            "id": "2-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-02-22-0.9196089178990885.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Dice / पासा",
+            "id": "2-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-02-23-0.08300567855238428.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Dice / पासा",
+            "id": "2-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-02-24-0.9845272106086478.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Dice / पासा",
+            "id": "2-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-02-27-0.6618318734441988.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Dice / पासा (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-03-02-0.8232115674111959.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Blood Relation / रक्त संबंध",
+            "id": "3-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-02-28-0.9901211007864459.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Blood Relation / रक्त संबंध",
+            "id": "3-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-01-0.6369894571258807.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Blood Relation / रक्त संबंध",
+            "id": "3-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-02-0.09898275990263028.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Blood Relation / रक्त संबंध",
+            "id": "3-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-03-0.466926271651652.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "5. Blood Relation / रक्त संबंध",
+            "id": "3-5",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-06-0.6997318245485633.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Blood Relation / रक्त संबंध (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-03-22-0.2794141146719029.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Alphabet / वर्णमाला",
+            "id": "4-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-10-0.46640323268565353.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Alphabet / वर्णमाला",
+            "id": "4-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-11-0.32019744777537906.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Alphabet / वर्णमाला",
+            "id": "4-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-13-0.8337472390068108.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Alphabet / वर्णमाला",
+            "id": "4-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-14-0.11713490567791518.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "5. Alphabet / वर्णमाला",
+            "id": "4-5",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-17-0.5265124686219196.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Alphabet / वर्णमाला (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-03-22-0.12024263553739023.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-18-0.06259340987489326.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-22-0.4166900513755907.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-23-0.8770514966500143.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-24-0.969208681680328.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "5. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-5",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-25-0.8951397230776286.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "6. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-6",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-27-0.6040643547584919.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "7. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-7",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-28-0.5654989269672841.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "8. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-8",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-29-0.33376513325173507.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Coding Decoding / कोडिंग डिकोडिंग (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-04-06-0.5776767795735296.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Analogy Test / सादृश्य परीक्षा",
+            "id": "6-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-30-0.4303588022940039.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Analogy Test / सादृश्य परीक्षा",
+            "id": "6-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-31-0.26000771673472434.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Analogy Test / सादृश्य परीक्षा",
+            "id": "6-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-03-0.913341789758291.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Analogy Test / सादृश्य परीक्षा (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course/2023-04-05-0.27079042167258294.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Classification / वर्गीकरण",
+            "id": "7-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-04-0.33256537975029143.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Classification / वर्गीकरण",
+            "id": "7-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-05-0.8697620712595853.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Classification / वर्गीकरण",
+            "id": "7-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-06-0.9560517249361058.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Classification / वर्गीकरण (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-04-11-0.5158987113171214.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Series / श्रंखला",
+            "id": "8-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-07-0.7468348754506895.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Series / श्रंखला",
+            "id": "8-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-10-0.17461713440908255.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Series / श्रंखला",
+            "id": "8-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-11-0.597150353586976.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Series / श्रंखला",
+            "id": "8-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-12-0.27910113752924426.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "5. Series / श्रंखला",
+            "id": "8-5",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-13-0.526565149513267.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Series / श्रंखला (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-04-17-0.03016981559928844.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Pattern",
+            "id": "9-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-14-0.13575941557907245.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Pattern",
+            "id": "9-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-17-0.9012697597234196.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Pattern",
+            "id": "9-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-18-0.09220844180179233.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Pattern",
+            "id": "9-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-19-0.19640940401767226.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Direction & Distance / दिशा और दूरी परीक्षण",
+            "id": "10-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-21-0.06318900802766292.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Direction & Distance / दिशा और दूरी परीक्षण",
+            "id": "10-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-22-0.7944117401575985.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Direction & Distance / दिशा और दूरी परीक्षण",
+            "id": "10-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-24-0.5734478444308122.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Direction & Distance / दिशा और दूरी परीक्षण",
+            "id": "10-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-25-0.7418096903305662.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "5. Direction & Distance / दिशा और दूरी परीक्षण",
+            "id": "10-5",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-26-0.5774567738038594.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Direction & Distance / दिशा और दूरी परीक्षण (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-04-27-0.8030364883168277.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Syllogism / न्याय निगमन",
+            "id": "11-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-28-0.004918342213538152.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Syllogism / न्याय निगमन",
+            "id": "11-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-04-29-0.7462028587226288.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Syllogism / न्याय निगमन",
+            "id": "11-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-03-0.8383597298222392.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Syllogism / न्याय निगमन",
+            "id": "11-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-04-0.3825625182883401.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "5. Syllogism / न्याय निगमन",
+            "id": "11-5",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-05-0.23675103255709495.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "6. Syllogism / न्याय निगमन",
+            "id": "11-6",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-08-0.22836869758405398.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Syllogism / न्याय निगमन (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-05-15-0.9460381956262693.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Venn Diagram / वेन आरेख",
+            "id": "12-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-09-0.8560467732799675.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Venn Diagram / वेन आरेख",
+            "id": "12-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-10-0.37563764512496367.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Venn Diagram / वेन आरेख",
+            "id": "12-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-12-0.8088388338682606.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Venn Diagram / वेन आरेख (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-05-18-0.47924192498934093.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Sitting Arrangement / बैठक व्यवस्था",
+            "id": "13-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-13-0.4061762206803665.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Sitting Arrangement / बैठक व्यवस्था",
+            "id": "13-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-17-0.6397516290903449.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Sitting Arrangement / बैठक व्यवस्था",
+            "id": "13-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-17-0.3785625839750768.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Sitting Arrangement / बैठक व्यवस्था",
+            "id": "13-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-18-0.14518862504315155.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "5. Sitting Arrangement / बैठक व्यवस्था",
+            "id": "13-5",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-19-0.8019235892803129.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "6. Sitting Arrangement / बैठक व्यवस्था",
+            "id": "13-6",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-22-0.5068092107741895.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Sitting Arrangement / बैठक व्यवस्था (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-05-31-0.5431680400271679.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Puzzle / पहेली",
+            "id": "14-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-23-0.45938214818899903.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Puzzle / पहेली",
+            "id": "14-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-25-0.14110541314834713.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Puzzle / पहेली",
+            "id": "14-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-26-0.03309460076475834.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Puzzle / पहेली",
+            "id": "14-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-29-0.5498218182443861.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Puzzle / पहेली (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-05-31-0.7152538949992884.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Ranking / श्रेणीबद्ध",
+            "id": "15-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-30-0.0071359496556724356.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Ranking / श्रेणीबद्ध",
+            "id": "15-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-31-0.7185031018189341.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Ranking / श्रेणीबद्ध",
+            "id": "15-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-03-0.05714265829636411.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Ranking / श्रेणीबद्ध",
+            "id": "15-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-05-0.5465402012893716.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Ranking / श्रेणीबद्ध (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-06-08-0.37949930523322584.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Mathematical Operations / गणितीय संचालन",
+            "id": "16-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-06-0.17974798832415706.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Mathematical Operations / गणितीय संचालन",
+            "id": "16-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-07-0.23514731243414033.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Mathematical Operations / गणितीय संचालन (Class Study Sheet)",
+            "id": "16-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-06-08-0.7259739992744791.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Inequality / असमानता",
+            "id": "17-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-08-0.8444948804220769.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Inequality / असमानता",
+            "id": "17-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-09-0.7162644018390771.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Inequality / असमानता",
+            "id": "17-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-12-0.27055165987611485.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Inequality / असमानता",
+            "id": "17-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-13-0.3810369701802092.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Inequality / असमानता (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-06-13-0.4530284327855192.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Arithmetic Reasoning / अंकगणितीय तर्कशक्ति",
+            "id": "18-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-14-0.6877511318489067.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Arithmetic Reasoning / अंकगणितीय तर्कशक्ति",
+            "id": "18-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-15-0.5530567032244131.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Arithmetic Reasoning / अंकगणितीय तर्कशक्ति (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-06-19-0.7568464854894117.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Logical Sequence of Words / शब्दों का तार्किक क्रम",
+            "id": "19-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-16-0.5559717103324808.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Logical Sequence of Words / शब्दों का तार्किक क्रम (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-06-19-0.5520964835987023.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Cube and Cuboid / घन और घनाभ",
+            "id": "20-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-19-0.10106305804438231.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Cube and Cuboid / घन और घनाभ",
+            "id": "20-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-20-0.1650452181924753.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Cube and Cuboid / घन और घनाभ",
+            "id": "20-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-22-0.4765791705124045.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Cube and Cuboid / घन और घनाभ",
+            "id": "20-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-23-0.6644101953822812.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "5. Cube and Cuboid / घन और घनाभ",
+            "id": "20-5",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-24-0.6078763471333208.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Cube and Cuboid / घन और घनाभ (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-24-0.6078763471333208.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Matrix / आव्यूह",
+            "id": "21-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-26-0.5281731177080877.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Clock / घड़ी",
+            "id": "22-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-28-0.16968966109955264.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Clock / घड़ी",
+            "id": "22-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-29-0.47944618935818095.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Clock / घड़ी",
+            "id": "22-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-30-0.3913704143909791.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Clock / घड़ी",
+            "id": "22-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-07-11-0.6346231353591301.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "5. Clock / घड़ी",
+            "id": "22-5",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-07-12-0.7635655777919996.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "6. Clock / घड़ी",
+            "id": "22-6",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-07-15-0.27799046084235535.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "7. Clock / घड़ी",
+            "id": "22-7",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-07-17-0.8119853592952111.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Clock / घड़ी (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-08-01-0.20469893318036325.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Data Sufficiency / डेटा पर्याप्ता",
+            "id": "23-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-07-19-0.8089979882886353.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Data Sufficiency / डेटा पर्याप्ता",
+            "id": "23-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-07-20-0.7730756845446356.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Data Sufficiency / डेटा पर्याप्ता",
+            "id": "23-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-07-22-0.24750229650577826.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Data Sufficiency / डेटा पर्याप्ता (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-08-05-0.8028408016775299.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Counting of Figures / आकृतियों की गिनती",
+            "id": "24-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-07-24-0.7747167713164986.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Counting of Figures / आकृतियों की गिनती",
+            "id": "24-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-07-25-0.23656152197487068.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Counting of Figures / आकृतियों की गिनती",
+            "id": "24-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-07-26-0.7315077909997878.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "4. Counting of Figures / आकृतियों की गिनती",
+            "id": "24-4",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-07-27-0.17834461732098106.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "5. Counting of Figures / आकृतियों की गिनती",
+            "id": "24-5",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-07-29-0.073745635493355.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Counting of Figures / आकृतियों की गिनती (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-08-01-0.6854443785067357.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Mirror and Water Image / दर्पण और जल प्रतिबिंब",
+            "id": "25-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-07-31-0.812592856211608.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Mirror and Water Image / दर्पण और जल प्रतिबिंब",
+            "id": "25-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-14-0.7824153222411729.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Figures of Analogy / आकृतियों की सादृश्यता",
+            "id": "26-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-02-0.323333943676964.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Figures of Analogy / आकृतियों की सादृश्यता",
+            "id": "26-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-03-0.5455121922320909.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "3. Figures of Analogy / आकृतियों की सादृश्यता",
+            "id": "26-3",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-04-0.2924374201486215.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Figures of Analogy / आकृतियों की सादृश्यता (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-08-10-0.07182500331998054.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Statement and Argument / कथन और तर्क",
+            "id": "27-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-07-0.4946774774490883.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Statement and Argument / कथन और तर्क",
+            "id": "27-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-08-0.4922276814740638.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Statement and Argument / कथन और तर्क (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-08-19-0.9363609174505609.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Statement and Assumption / कथन और पूर्वधारणा",
+            "id": "28-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-09-0.7149718301342545.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Statement and Assumption / कथन और पूर्वधारणा",
+            "id": "28-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-10-0.937592581629038.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Statement and Assumption / कथन और पूर्वधारणा (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-08-19-0.7492816129478466.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Statement and Conclusion / कथन और निष्कर्ष",
+            "id": "29-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-11-0.24569316479835357.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Statement and Conclusion / कथन और निष्कर्ष",
+            "id": "29-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-12-0.512772863790558.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Statement and Conclusion / कथन और निष्कर्ष (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-08-19-0.4602778904270963.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Logical Statement / तार्किक कथन",
+            "id": "30-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-14-0.07568205649676907.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Logical Statement / तार्किक कथन (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-08-19-0.8804583203821803.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Statement and Course of Action / कथन और कार्यवाही",
+            "id": "31-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-16-0.01574807378966625.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Statement and Course of Action / कथन और कार्यवाही (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-08-19-0.8316866742709419.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Cause and Effect / कारण और परिणाम",
+            "id": "32-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-17-0.36908197091305195.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Cause and Effect / कारण और परिणाम (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-08-19-0.42819710931057786.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Assertion and Reason / अभिकथन और कारण",
+            "id": "33-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-18-0.04746929104747055.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Assertion and Reason / अभिकथन और कारण (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course2/2023-08-21-0.19941931235647314.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Classification / वर्गीकरण (Non Verbal)",
+            "id": "34-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-19-0.23994283298268337.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Classification / वर्गीकरण - Non Verbal (Class Study Sheet) ",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course4/2023-09-18-0.2628624316816339.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Embedded Figure / सन्निहित आकृति",
+            "id": "35-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-20-0.6664787947752628.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Embedded Figure / सन्निहित आकृति (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course4/2023-09-19-0.7791603580796922.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Paper Cutting and Folding / पेपर काटना और मोड़ना",
+            "id": "36-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-21-0.4083862799088682.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "2. Paper Cutting and Folding / पेपर काटना और मोड़ना",
+            "id": "36-2",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-22-0.5230817911696966.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Paper Cutting and Folding / पेपर काटना और मोड़ना (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course4/2023-09-19-0.5564994452162129.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Completion of Figure / आकृति पूर्ण करना",
+            "id": "37-1",
+            "link": "https://appx-recordings.classx.co.in/drm/197cce0c-4b88-44e4-8640-4c6582717520/360p/drm-hls/master-4247811.604404135.m3u8.m3u8",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Completion of Figure / आकृति पूर्ण करना (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course4/2023-09-18-0.33807577347526907.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Formation of Figure / आकृति का निर्माण",
+            "id": "38-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-23-0.7205484251762975.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Formation of Figure / आकृति का निर्माण (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course4/2023-09-19-0.09730900577738266.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Grouping of Figures / आकृतियों का समूहीकारण",
+            "id": "39-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/subject/2023-08-24-0.42739538321076265.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Grouping of Figures / आकृतियों का समूहीकारण (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course4/2023-09-19-0.540091705895327.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Figure Matrix / आकृति आव्यूह",
+            "id": "40-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/subject/2023-09-01-0.5002673174597756.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Figure Matrix / आकृति आव्यूह (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course4/2023-09-19-0.3649152888231251.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "1. Dot Situation / डॉट स्थिति",
+            "id": "41-1",
+            "link": "https://appx-wsb-gcp.akamai.net.in/subject/2023-09-01-0.2322382101637137.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       },
+       {    
+            "name": "Dot Situation / डॉट स्थिति (Class Study Sheet)",
+            "link": "https://appx-wsb-gcp.akamai.net.in/paid_course4/2023-09-19-0.6214252953982304.pdf",
+            "logo": "/assets/img/pdf-list-logo.png"
+       }
+]

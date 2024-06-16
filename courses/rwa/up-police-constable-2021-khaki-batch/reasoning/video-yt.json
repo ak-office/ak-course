@@ -1,0 +1,22 @@
+[
+
+       {    
+            "name": " 1. Direction Test - दिशा परीक्षण ",
+            "id": "1-1",
+            "link": "https://www.youtube.com/embed/CtmIED3DVv4",
+            "logo": "/assets/img/institute/rwa/video-list-logo.png"
+       },
+       {    
+            "name": " 2. Direction Test - दिशा परीक्षण ",
+            "id": "1-2",
+            "link": "https://www.youtube.com/embed/zA8WaSsrblo",
+            "logo": "/assets/img/institute/rwa/video-list-logo.png"
+       },
+       {    
+            "name": " 3. Direction Test - दिशा परीक्षण ",
+            "id": "1-3",
+            "link": "https://www.youtube.com/embed/5BsfIBn15yY",
+            "logo": "/assets/img/institute/rwa/video-list-logo.png"
+       }
+
+]

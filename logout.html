@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <meta http-equiv="X-UA-Compatible" content="IE=edge">
+          <meta property="og:image" content="/assets/img/ak-logo.png" />                                                                                                                                                                                                      
+          <meta name="theme-color" content="#161616">  
+          <link rel="shortcut icon" href="/favicon.ico" />                                                           	
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+          <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+          <link href="https://fonts.googleapis.com/icon?family=Material+Icons"      rel="stylesheet">
+          <link rel="stylesheet" type="text/css" href="/css/wrapper.css"/>    
+          <script src="/login/protection.js"></script>                                                                                    
+          <link rel="stylesheet" type="text/css" href="/css/style.css"/>
+          <link rel="stylesheet" href="/login/style.css">
+          <link rel="preconnect" href="https://fonts.gstatic.com">
+          <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap" rel="stylesheet"> 
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+          <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script> 
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+          <script src="/js/click-heart.js"></script>
+
+
+ </head>  
+
+
+
+
+ <!----------------------  My Header  ---------------------->
+
+
+
+ <div class="header">
+    <header class="header navbar-wapmash"> <button class="header__button" id="btnNav" type="button"> <h2> </h2> <i class="material-icons">menu</i> </button>
+ <h2> </h2> <a href="/"><img src="/assets/img/logo.png" alt="logo" width="140" height="37" /></a> <h2></h2> </header> </div> </div>
+  <nav class="nav preload">
+    <div class="nav__links"> <a href="/" class="nav__link nav__link--active"> <i class="material-icons">home</i> Home </a>
+      <a class="nav__link" href="/logout.html"> <i class="material-icons">login</i> Account </a>
+      <a class="nav__link" href="/Copyright.html"> <i class="material-icons">copyright</i> Copyright</a>
+      <a class="nav__link" href="/Privacy_Policy.html"> <i class="material-icons">policy</i> Privacy Policy </a>
+      <div class="nav__title"><i class="material-icons">search</i> Search</div>
+      <form class="search" action="/" method="get"> <input type="text" name="to-search" class="search-box" maxlength="2048" value="" placeholder="Search" /><input type="submit" value="Search" /> </form>
+      <div style="color:#5b5b5b;font-size:13px;padding:0px 8px 8px 12px;">Search by Name, Category etc.</div> </div>
+    <div class="nav__overlay"></div> </nav>
+  <script src="/js/menu/list.js"></script>
+  </script></noscript>
+
+
+
+
+ <!---------------------- MAIN CONTENT  ---------------------->
+
+
+  
+<title> My Profile </title>
+
+<br>
+
+<body>
+  <script>
+    // Function to save user details locally
+    function saveDetails() {
+      var name = document.getElementById("name").value;
+      var dob = document.getElementById("dob").value;
+      var gender = document.querySelector('input[name="gender"]:checked').value;
+      var avatarImg = document.querySelector('input[name="avatar-selection"]:checked').value;
+
+      // Save the user details to Local Storage
+      localStorage.setItem("name", name);
+      localStorage.setItem("dob", dob);
+      localStorage.setItem("gender", gender);
+      localStorage.setItem("avatarImg", avatarImg);
+
+
+      // Show success message or perform any necessary actions
+      console.log("User details saved successfully!");
+
+      // Reload the page
+      window.location.href = window.location.href;
+
+
+      // Disable the form inputs after saving the details
+      document.getElementById("name").disabled = true;
+      document.getElementById("dob").disabled = true;
+      document.getElementById("male").disabled = true;
+      document.getElementById("female").disabled = true;
+      document.getElementById("avatar-male").disabled = true;
+      document.getElementById("avatar-female").disabled = true;
+    }
+
+    // Function to retrieve and display user details from local storage
+    function showDetails() {
+      var name = localStorage.getItem("name");
+      var dob = localStorage.getItem("dob");
+      var gender = localStorage.getItem("gender");
+      var avatarImg = localStorage.getItem("avatarImg");
+
+      var profileSection = document.getElementById("profile");
+
+      // Display the user details if they exist
+      if (name && dob && gender && avatarImg) {
+        profileSection.innerHTML = `
+          <h2>User Profile</h2>
+          <div class="avatar-container">
+            <img id="avatar" class="avatar-img" src="${avatarImg}" alt="Avatar">
+          <p><strong>Name:</strong> ${name}</p>
+          <p><strong>Date of Birth:</strong> ${dob}</p>
+          <p><strong>Gender:</strong> ${gender}</p>
+        `;
+        // Disable the form inputs if user details are already filled
+        document.getElementById("name").disabled = true;
+        document.getElementById("dob").disabled = true;
+        document.getElementById("male").disabled = true;
+        document.getElementById("female").disabled = true;
+        document.getElementById("avatar-male").disabled = true;
+        document.getElementById("avatar-female").disabled = true;
+      } else {
+        // Display the form if no user details are found
+        profileSection.innerHTML = `
+          <form>
+          	<center><div class="avatar-container">
+              <input type="radio" id="avatar-male" name="avatar-selection" value="/login/img/male-icon.png" required>
+              <label for="avatar-male"><img class="avatar-img" src="/login/img/male-icon.png" alt="Male Avatar"></label>
+              <input type="radio" id="avatar-female" name="avatar-selection" value="/login/img/female-icon.png" required>
+              <label for="avatar-female"><img class="avatar-img" src="/login/img/female-icon.png" alt="Female Avatar"></label>
+            </div>
+            </center>
+            <label for="name">Name:</label>
+            <input type="text" id="name" required><br><br>
+
+            <label for="dob">Date of Birth:</label>
+            <input type="date" id="dob" required><br><br>
+
+            <label for="gender">Gender:</label>
+            <input type="radio" id="male" name="gender" value="Male" required>
+            <label for="male">Male</label>
+            <input type="radio" id="female" name="gender" value="Female" required>
+            <label for="female">Female</label><br>
+
+            <input type="button" value="Save" onclick="saveDetails()">
+          </form>
+        `;
+      }
+    }
+  </script>
+  <style>
+    body {
+      background-color: white;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 90vh;
+      max-width: 100%;
+      overflow: hidden;
+    }
+
+    .rounded-image {
+      width: 50%;
+      height: auto;
+      border-radius: 50%;
+      overflow: hidden;
+      box-shadow: 0px 0px 20px 5px #333;
+    }
+
+    .image-container {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 1rem;
+    }
+
+    .text-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      color: black;
+      text-align: center;
+      font-size: 1.0rem;
+      font-weight: bold;
+      margin-bottom: 2rem;
+    }
+
+    .button {
+      font-size: 10px;
+      display: inline-block;
+      padding: 0.3rem 1rem;
+      background-color: #0060cf;
+      color: white;
+      text-decoration: none;
+      font-size: 1.3rem;
+      border-radius: 15px;
+      transition: background-color 0.3s ease;
+    }
+
+    .button:hover {
+      background-color: yellow;
+    }
+
+    .logout-button {
+      background-color: #858585;
+      color: white;
+      padding: 10px 40px;
+      border: none;
+      border-radius: 50px;
+      cursor: pointer;
+    }
+
+    .avatar-frame {
+      display: flex;
+      align-items: center;
+    }
+
+    .avatar-img {
+      width: 100px;
+      height: 100px;
+      object-fit: cover;
+      border-radius: 50%;
+      margin-right: 10px;
+    }
+  </style>
+  </head>
+
+  <body>
+<center><b>Login Successfully</b></center>
+    <div class="text-container">
+
+ <!---     <div id="profile"> </div>  --->
+        <!-- User profile details or form will be displayed here -->
+
+
+      <script>
+        // Fetch and display user details when the page loads
+        showDetails();
+      </script>
+      <br>
+      <a href="javascript:history.back()" class="button"> Go Back </a>
+      <br>
+      <a href="/index.html" class="button"> Home Page </a>
+      <br>
+      <button class="logout-button" onclick="logout ()">Logout</button>
+      <div id="content"></div>
+      <script src="/login/protection.js"> </script>
+
+      <script src="https://code.jquery.com/jquery-3.6.1.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+
+      </b></b>
+
+  </body>
+
+  <br>
+</body>
+
+</html>

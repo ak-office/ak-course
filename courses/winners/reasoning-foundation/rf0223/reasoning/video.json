@@ -1,0 +1,780 @@
+[
+
+       {    
+            "name": "Introduction and Syllabus (Reasoning)",
+            "description": "10 Feb 2023",
+            "id": "1",
+            "link": "https://appx-recordings.classx.co.in/drm/f9af9660-3cb2-43f3-baa4-e8ec2efc4d97/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Calendar / कैलेंडर",
+            "description": "11 Feb 2023",
+            "id": "1-1",
+            "link": "https://migrationvideos.classx.co.in/videos/WQi5vn1s-5S4ICibK.mp4",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Calendar / कैलेंडर",
+            "description": "13 Feb 2023",
+            "id": "1-2",
+            "link": "https://migrationvideos.classx.co.in/videos/HCEkRrBX-5S4ICibK.mp4",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Calendar / कैलेंडर",
+            "description": "14 Feb 2023",
+            "id": "1-3",
+            "link": "https://migrationvideos.classx.co.in/videos/FWDga0xa-5S4ICibK.mp4",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Calendar / कैलेंडर",
+            "description": "15 Feb 2023",
+            "id": "1-4",
+            "link": "https://migrationvideos.classx.co.in/videos/9rrXTBHD-5S4ICibK.mp4",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "5. Calendar / कैलेंडर",
+            "description": "17 Feb 2023",
+            "id": "1-5",
+            "link": "https://appx-recordings.classx.co.in/drm/d2aa0390-f013-400c-a865-317fa2c65f5a/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "6. Calendar / कैलेंडर",
+            "description": "18 Feb 2023",
+            "id": "1-6",
+            "link": "https://appx-recordings.classx.co.in/drm/b9bb89ef-bc16-499f-90f8-4699701e9b91/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "7. Calendar / कैलेंडर",
+            "description": "20 Feb 2023",
+            "id": "1-7",
+            "link": "https://appx-recordings.classx.co.in/drm/a55e5fc4-fff3-4f68-95d4-6f0f105e97c3/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "8. Calendar / कैलेंडर",
+            "description": "21 Feb 2023",
+            "id": "1-8",
+            "link": "https://appx-recordings.classx.co.in/drm/f48d4584-d544-40de-af5a-425d5f6e03e3/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Dice / पासा",
+            "id": "2-1",
+            "link": "https://appx-recordings.classx.co.in/drm/6cf95b00-4bc9-4c3b-85c7-9d32d07e59a8/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Dice / पासा",
+            "id": "2-2",
+            "link": "https://appx-recordings.classx.co.in/drm/f21b8d82-804a-43bc-ae4f-8049748c6aa2/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Dice / पासा",
+            "id": "2-3",
+            "link": "https://appx-recordings.classx.co.in/drm/795020ba-fa88-4a63-8f27-a85af1271be1/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Dice / पासा",
+            "id": "2-4",
+            "link": "https://appx-recordings.classx.co.in/drm/e86be41e-b7ac-4144-899d-aa2f529d9936/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Blood Relation / रक्त संबंध",
+            "id": "3-1",
+            "link": "https://appx-recordings.classx.co.in/drm/26c94130-0941-4f48-9152-206689f1354c/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Blood Relation / रक्त संबंध",
+            "id": "3-2",
+            "link": "https://appx-recordings.classx.co.in/drm/408a5309-f022-4e96-ad14-e420fdb8868a/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Blood Relation / रक्त संबंध",
+            "id": "3-3",
+            "link": "https://appx-recordings.classx.co.in/drm/ab5b6d1f-09ed-4ced-8291-052343946aba/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Blood Relation / रक्त संबंध",
+            "id": "3-4",
+            "link": "https://appx-recordings.classx.co.in/drm/9845dc64-ad47-4226-9861-f41b3f10731f/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "5. Blood Relation / रक्त संबंध",
+            "id": "3-5",
+            "link": "https://appx-recordings.classx.co.in/drm/45e01d55-389e-4e7c-9132-4fd989f445d1/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Alphabet / वर्णमाला",
+            "id": "4-1",
+            "link": "https://appx-recordings.classx.co.in/drm/a6d0ef83-56ea-417c-a8f6-2ca76dfbea0e/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Alphabet / वर्णमाला",
+            "id": "4-2",
+            "link": "https://appx-recordings.classx.co.in/drm/0c940ebc-00cd-41cf-9836-20b505ab13ac/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Alphabet / वर्णमाला",
+            "id": "4-3",
+            "link": "https://appx-recordings.classx.co.in/drm/84ea3965-4af6-463e-b90d-7614a6d5830d/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Alphabet / वर्णमाला",
+            "id": "4-4",
+            "link": "https://appx-recordings.classx.co.in/drm/2bebc50d-f943-4856-8af9-e4fcb7730baf/360p/drm-hls/master.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "5. Alphabet / वर्णमाला",
+            "id": "4-5",
+            "link": "https://appx-recordings.classx.co.in/drm/e258f800-0038-47f7-b52d-a105140d01b5/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-1",
+            "link": "https://appx-recordings.classx.co.in/drm/1c4b4225-fc1e-43fa-94ac-5e3a98cdb596/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-2",
+            "link": "https://appx-recordings.classx.co.in/drm/408040a8-5518-475b-a023-4917d72c09c7/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-3",
+            "link": "https://appx-recordings.classx.co.in/drm/e6b76fbc-873f-42c2-98b3-a46570bd0f6a/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-4",
+            "link": "https://appx-recordings.classx.co.in/drm/f6d7ac09-d617-4817-b7cd-c9a479a4434e/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "5. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-5",
+            "link": "https://appx-recordings.classx.co.in/drm/f81d4356-20d9-4d8c-8236-5f830157319e/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "6. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-6",
+            "link": "https://appx-recordings.classx.co.in/drm/2f143c65-95bf-4c05-895e-e6aa95b092de/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "7. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-7",
+            "link": "https://appx-recordings.classx.co.in/drm/846966a6-1819-4118-b157-e2f50322b1fe/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "8. Coding Decoding / कोडिंग डिकोडिंग",
+            "id": "5-8",
+            "link": "https://appx-recordings.classx.co.in/drm/42241f31-4a6d-47aa-a1a2-53f240dfa922/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Analogy Test / सादृश्य परीक्षा",
+            "id": "6-1",
+            "link": "https://appx-recordings.classx.co.in/drm/6ae679df-df2f-4b9d-b443-6202c5104aaf/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Analogy Test / सादृश्य परीक्षा",
+            "id": "6-2",
+            "link": "https://appx-recordings.classx.co.in/drm/46280ce8-be33-4422-8f5b-6b6017acda86/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Analogy Test / सादृश्य परीक्षा",
+            "id": "6-3",
+            "link": "https://appx-recordings.classx.co.in/drm/50888599-da99-4509-ad8a-dbceb2079639/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Classification / वर्गीकरण",
+            "id": "7-1",
+            "link": "https://appx-recordings.classx.co.in/drm/370e146a-ecd4-42b2-aba1-5a207e0d2916/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Classification / वर्गीकरण",
+            "id": "7-2",
+            "link": "https://appx-recordings.classx.co.in/drm/9f0c05a6-0300-47e2-b8d8-075b14c535ab/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Classification / वर्गीकरण",
+            "id": "7-3",
+            "link": "https://appx-recordings.classx.co.in/drm/41e16a37-0c1b-45c2-b378-dd14e05702ea/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Series / श्रंखला",
+            "id": "8-1",
+            "link": "https://appx-recordings.classx.co.in/drm/a2e77d10-9dd8-4f15-97aa-9fd95ed4a0a5/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Series / श्रंखला",
+            "id": "8-2",
+            "link": "https://appx-recordings.classx.co.in/drm/b4e2d109-39d3-449f-a64e-57ae487c088e/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Series / श्रंखला",
+            "id": "8-3",
+            "link": "https://appx-recordings.classx.co.in/drm/a1466bda-7d3b-488c-b416-67fd3f07fa04/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Series / श्रंखला",
+            "id": "8-4",
+            "link": "https://appx-recordings.classx.co.in/drm/17e8c003-9ebe-4c0f-bfab-78cd2088cfcf/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "5. Series / श्रंखला",
+            "id": "8-5",
+            "link": "https://appx-recordings.classx.co.in/drm/0f2c4f91-b577-4a17-bbcf-9160ff10575d/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Pattern",
+            "id": "9-1",
+            "link": "https://appx-recordings.classx.co.in/drm/ae1795e1-cd35-4104-8be0-3725b6f19691/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Pattern",
+            "id": "9-2",
+            "link": "https://appx-recordings.classx.co.in/drm/d69a7145-7ece-4e2a-ba7e-c045f679fdea/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Pattern",
+            "id": "9-3",
+            "link": "https://appx-recordings.classx.co.in/drm/7fb30a00-6104-4631-aa56-bc23b44d4fc7/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Pattern",
+            "id": "9-4",
+            "link": "https://appx-recordings.classx.co.in/drm/26085814-5dc8-4655-998c-53c7e27feb49/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Direction & Distance / दिशा और दूरी परीक्षण",
+            "id": "10-1",
+            "link": "https://appx-recordings.classx.co.in/drm/025174a1-a89d-4006-aa9a-836a70a1f576/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Direction & Distance / दिशा और दूरी परीक्षण",
+            "id": "10-2",
+            "link": "https://appx-recordings.classx.co.in/drm/c6ced8ea-1d1c-4f43-91ee-b2cb2f419ac8/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Direction & Distance / दिशा और दूरी परीक्षण",
+            "id": "10-3",
+            "link": "https://appx-recordings.classx.co.in/drm/c9c4eb65-ca52-4eef-8015-6d32f13b2e83/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Direction & Distance / दिशा और दूरी परीक्षण",
+            "id": "10-4",
+            "link": "https://appx-recordings.classx.co.in/drm/0d5a06f5-ced9-426d-9ba0-af30ff29df42/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "5. Direction & Distance / दिशा और दूरी परीक्षण",
+            "id": "10-5",
+            "link": "https://appx-recordings.classx.co.in/drm/5c64402a-943b-4cff-bc5f-9c55dfc2d9f5/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Syllogism / न्याय निगमन",
+            "id": "11-1",
+            "link": "https://appx-recordings.classx.co.in/drm/0ea9c01b-02da-4d33-9133-517c8d29fab2/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Syllogism / न्याय निगमन",
+            "id": "11-2",
+            "link": "https://appx-recordings.classx.co.in/drm/303eefe4-8339-46db-a903-6e2ac61d8bd9/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Syllogism / न्याय निगमन",
+            "id": "11-3",
+            "link": "https://appx-recordings.classx.co.in/drm/f5e1312a-e378-4e5d-843e-fdad35e9bea9/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Syllogism / न्याय निगमन",
+            "id": "11-4",
+            "link": "https://appx-recordings.classx.co.in/drm/e952095d-6861-420f-bdb6-fabf1dd3c1f0/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "5. Syllogism / न्याय निगमन",
+            "id": "11-5",
+            "link": "https://appx-recordings.classx.co.in/drm/d7f19f3e-04a4-4275-9b9c-5b99af1a8574/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "6. Syllogism / न्याय निगमन",
+            "id": "11-6",
+            "link": "https://appx-recordings.classx.co.in/drm/30a97aff-9486-4ffa-9a4a-e8eb6757d575/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Venn Diagram / वेन आरेख",
+            "id": "12-1",
+            "link": "https://appx-recordings.classx.co.in/drm/61192fc7-ea89-4366-87e2-0ba70a145165/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Venn Diagram / वेन आरेख",
+            "id": "12-2",
+            "link": "https://appx-recordings.classx.co.in/drm/7a1e0a83-f182-47e5-93a4-3dff80bc32ae/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Venn Diagram / वेन आरेख",
+            "id": "12-3",
+            "link": "https://appx-recordings.classx.co.in/drm/6b92864d-92c7-4087-9714-5025ce8f0f17/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Sitting Arrangement / बैठक व्यवस्था",
+            "id": "13-1",
+            "link": "https://appx-recordings.classx.co.in/drm/b0b96a02-bf38-491a-98eb-58a60acabb71/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Sitting Arrangement / बैठक व्यवस्था",
+            "id": "13-2",
+            "link": "https://appx-recordings.classx.co.in/drm/2c54057b-27be-4626-ae2e-366ccc3a0300/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Sitting Arrangement / बैठक व्यवस्था",
+            "id": "13-3",
+            "link": "https://appx-recordings.classx.co.in/drm/5e7d6a3e-2752-481b-9284-de48a377b2f2/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Sitting Arrangement / बैठक व्यवस्था",
+            "id": "13-4",
+            "link": "https://appx-recordings.classx.co.in/drm/6c01edee-8d75-4d6e-9512-ad259ff50537/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "5. Sitting Arrangement / बैठक व्यवस्था",
+            "id": "13-5",
+            "link": "https://appx-recordings.classx.co.in/drm/05055710-023b-40cb-bd57-e48d36543566/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "6. Sitting Arrangement / बैठक व्यवस्था",
+            "id": "13-6",
+            "link": "https://appx-recordings.classx.co.in/drm/d6724ce6-93aa-4db7-950c-63e4a9be05cb/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Puzzle / पहेली",
+            "id": "14-1",
+            "link": "https://appx-recordings.classx.co.in/drm/8cceb512-f048-4fa1-87f2-fc712163041b/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Puzzle / पहेली",
+            "id": "14-2",
+            "link": "https://appx-recordings.classx.co.in/drm/4c054455-bff8-4016-b38d-e30145a333e2/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Puzzle / पहेली",
+            "id": "14-3",
+            "link": "https://appx-recordings.classx.co.in/drm/85c20934-b14b-4139-8a54-15eb95bcb301/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Puzzle / पहेली",
+            "id": "14-4",
+            "link": "https://appx-recordings.classx.co.in/drm/34bc8a43-8038-4ce5-ab54-1e01b6268bda/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Ranking / श्रेणीबद्ध",
+            "id": "15-1",
+            "link": "https://appx-recordings.classx.co.in/drm/c18575ab-864d-4cf0-a364-3853e14ae802/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Ranking / श्रेणीबद्ध",
+            "id": "15-2",
+            "link": "https://appx-recordings.classx.co.in/drm/f019ffed-0c30-4928-87cc-11917b4aabd0/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Ranking / श्रेणीबद्ध",
+            "id": "15-3",
+            "link": "https://appx-recordings.classx.co.in/drm/922951ea-cd3d-406c-b254-386a1eb022e4/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Ranking / श्रेणीबद्ध",
+            "id": "15-4",
+            "link": "https://appx-recordings.classx.co.in/drm/42d068a8-b82c-4c39-a6f8-327ebc0e3ca4/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Mathematical Operations / गणितीय संचालन",
+            "id": "16-1",
+            "link": "https://appx-recordings.classx.co.in/drm/ef92d00a-9084-4cd5-b102-9b72c863335c/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Mathematical Operations / गणितीय संचालन",
+            "id": "16-2",
+            "link": "https://appx-recordings.classx.co.in/drm/12ee5654-95d7-47ce-9eed-3d902fad76a0/360p/drm-hls/master-9689310.294633193.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Inequality / असमानता",
+            "id": "17-1",
+            "link": "https://appx-recordings.classx.co.in/drm/950f6774-c9a4-404d-add9-994fe18f1d27/360p/drm-hls/master-8781654.732163217.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Inequality / असमानता",
+            "id": "17-2",
+            "link": "https://appx-recordings.classx.co.in/drm/3805360b-a88b-4d90-9822-851072f60bc6/360p/drm-hls/master-4806267.9662499195.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Inequality / असमानता",
+            "id": "17-3",
+            "link": "https://appx-recordings.classx.co.in/drm/3ef8e44b-b5b4-4252-8088-ff6ae0020251/360p/drm-hls/master-7854243.786554804.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Inequality / असमानता",
+            "id": "17-4",
+            "link": "https://appx-recordings.classx.co.in/drm/682e7812-65c1-40d7-81c3-9f676f51a858/360p/drm-hls/master-6867175.476982646.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Arithmetic Reasoning / अंकगणितीय तर्कशक्ति",
+            "id": "18-1",
+            "link": "https://appx-recordings.classx.co.in/drm/fd148961-6863-49c7-8acc-baa70f6f1002/360p/drm-hls/master-6642640.097873944.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Arithmetic Reasoning / अंकगणितीय तर्कशक्ति",
+            "id": "18-2",
+            "link": "https://appx-recordings.classx.co.in/drm/cb33923a-6ad5-4f05-bc48-8b5c6e8bf02c/360p/drm-hls/master-164156.33987125754.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Logical Sequence of Words / शब्दों का तार्किक क्रम",
+            "id": "19-1",
+            "link": "https://appx-recordings.classx.co.in/drm/31bc1744-d221-45bf-a069-55e2a7352ad0/360p/drm-hls/master-6240458.348308353.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Cube and Cuboid / घन और घनाभ",
+            "id": "20-1",
+            "link": "https://appx-recordings.classx.co.in/drm/05f815b7-adca-4b41-b33e-a3db07ed7d4d/360p/drm-hls/master-1732553.6990635882.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Cube and Cuboid / घन और घनाभ",
+            "id": "20-2",
+            "link": "https://appx-recordings.classx.co.in/drm/dc295db7-09b4-491a-8421-a5b8cc49ac7d/360p/drm-hls/master-3528261.461159914.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Cube and Cuboid / घन और घनाभ",
+            "id": "20-3",
+            "link": "https://appx-recordings.classx.co.in/drm/ded7133b-4563-42ce-9670-ac525871db0d/360p/drm-hls/master-4326608.215890038.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Cube and Cuboid / घन और घनाभ",
+            "id": "20-4",
+            "link": "https://appx-recordings.classx.co.in/drm/0daefc2a-7e1c-4b63-8ca6-92b59e6a1ac0/360p/drm-hls/master-989185.6905901242.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "5. Cube and Cuboid / घन और घनाभ",
+            "id": "20-5",
+            "link": "https://appx-recordings.classx.co.in/drm/3ef31aa4-7a96-4fc1-9a5b-493700c125e1/360p/drm-hls/master-4677791.8189280145.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Matrix / आव्यूह",
+            "id": "21-1",
+            "link": "https://appx-recordings.classx.co.in/drm/ada91a5e-445d-4d0e-9474-75eb821c9e35/360p/drm-hls/master-5130824.237494238.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Clock / घड़ी",
+            "id": "22-1",
+            "link": "https://appx-recordings.classx.co.in/drm/c0f97080-33bf-4d29-ba57-43b929a97d46/360p/drm-hls/master-9578806.2068761.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Clock / घड़ी",
+            "id": "22-2",
+            "link": "https://appx-recordings.classx.co.in/drm/9fffb748-fe28-4ce9-b0f4-5ddf05f79bfd/360p/drm-hls/master-9090182.432030078.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Clock / घड़ी",
+            "id": "22-3",
+            "link": "https://appx-recordings.classx.co.in/drm/a2010a0b-b3b2-4f59-8251-8cfd33f06306/360p/drm-hls/master-5425948.310039788.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Clock / घड़ी",
+            "id": "22-4",
+            "link": "https://appx-recordings.classx.co.in/drm/5ba2aa94-09b5-4f9d-87ae-713df99439ff/360p/drm-hls/master-6011245.038756628.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "5. Clock / घड़ी",
+            "id": "22-5",
+            "link": "https://appx-recordings.classx.co.in/drm/ff9a1420-5ce4-4528-9a2b-59c283016c0a/360p/drm-hls/master-2098196.5238027223.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "6. Clock / घड़ी",
+            "id": "22-6",
+            "link": "https://appx-recordings.classx.co.in/drm/e0cfe388-fbce-4911-b68b-655a9cc7b473/360p/drm-hls/master-5356441.799128746.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "7. Clock / घड़ी",
+            "id": "22-7",
+            "link": "https://appx-recordings.classx.co.in/drm/59bc18f2-eb11-4a7b-a3fe-ef60a0f1abf0/360p/drm-hls/master-707490.2892294955.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Data Sufficiency / डेटा पर्याप्ता",
+            "id": "23-1",
+            "link": "https://appx-recordings.classx.co.in/drm/c2e8bbf6-736b-4d3b-b1ab-5d6cbc5f83d9/360p/drm-hls/master-2259563.431360725.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Data Sufficiency / डेटा पर्याप्ता",
+            "id": "23-2",
+            "link": "https://appx-recordings.classx.co.in/drm/728e4493-df9f-4855-8dd4-2987d1966ab3/360p/drm-hls/master-9928776.749843651.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Data Sufficiency / डेटा पर्याप्ता",
+            "id": "23-3",
+            "link": "https://appx-recordings.classx.co.in/drm/ab3e8c31-c1e8-4b18-b458-60fa1627e46b/360p/drm-hls/master-4516178.77784309.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Counting of Figures / आकृतियों की गिनती",
+            "id": "24-1",
+            "link": "https://appx-recordings.classx.co.in/drm/6d8a661a-9129-4d0d-80f9-fd1a015a0378/360p/drm-hls/master-4354477.298242177.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Counting of Figures / आकृतियों की गिनती",
+            "id": "24-2",
+            "link": "https://appx-recordings.classx.co.in/drm/0a77dd7e-58bb-4624-9978-8bf85d20ccc0/360p/drm-hls/master-4055125.528421699.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Counting of Figures / आकृतियों की गिनती",
+            "id": "24-3",
+            "link": "https://appx-recordings.classx.co.in/drm/b7a1e48f-3489-4c57-accd-2184523d178e/360p/drm-hls/master-1473152.5597724903.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "4. Counting of Figures / आकृतियों की गिनती",
+            "id": "24-4",
+            "link": "https://appx-recordings.classx.co.in/drm/34563510-c7c5-4862-a3f0-da4f2dfa5cc6/360p/drm-hls/master-5555185.259609387.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "5. Counting of Figures / आकृतियों की गिनती",
+            "id": "24-5",
+            "link": "https://appx-recordings.classx.co.in/drm/2c9e9743-966f-4c16-b6b7-c984562996b2/360p/drm-hls/master-9768788.046292506.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Mirror and Water Image / दर्पण और जल प्रतिबिंब",
+            "id": "25-1",
+            "link": "https://appx-recordings.classx.co.in/drm/53599485-160b-4857-a721-2d2b487374f6/360p/drm-hls/master-6278487.895077218.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Mirror and Water Image / दर्पण और जल प्रतिबिंब",
+            "id": "25-2",
+            "link": "https://appx-recordings.classx.co.in/drm/c9b24352-683e-4fbc-81a7-e7d5c05332a3/360p/drm-hls/master-238472.98014931352.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Figures of Analogy / आकृतियों की सादृश्यता",
+            "id": "26-1",
+            "link": "https://appx-recordings.classx.co.in/drm/eadf6e6f-a52c-4c12-93af-a3f03327748f/360p/drm-hls/master-9654911.492740557.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Figures of Analogy / आकृतियों की सादृश्यता",
+            "id": "26-2",
+            "link": "https://appx-recordings.classx.co.in/drm/a35532eb-4aba-4653-b897-4b64f6bd74c4/360p/drm-hls/master-8178982.2917005895.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Figures of Analogy / आकृतियों की सादृश्यता",
+            "id": "26-3",
+            "link": "https://appx-recordings.classx.co.in/drm/bf25c100-dfcc-4344-a0e9-1f86c940fab4/360p/drm-hls/master-1593710.5530123396.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Statement and Argument / कथन और तर्क",
+            "id": "27-1",
+            "link": "https://appx-recordings.classx.co.in/drm/c5fce5c1-637d-4a8d-acda-bca6c2cbae23/360p/drm-hls/master-7393783.750135032.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Statement and Argument / कथन और तर्क",
+            "id": "27-2",
+            "link": "https://appx-recordings.classx.co.in/drm/cdd23aec-fc5a-4ee6-bbe0-5048b13459b3/360p/drm-hls/master-7134739.169617068.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Statement and Assumption / कथन और पूर्वधारणा",
+            "id": "28-1",
+            "link": "https://appx-recordings.classx.co.in/drm/be7b6d75-2049-427d-a8a5-f80f0fe06592/360p/drm-hls/master-6557744.80723057.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Statement and Assumption / कथन और पूर्वधारणा",
+            "id": "28-2",
+            "link": "https://appx-recordings.classx.co.in/drm/c3e929f8-9bde-4e55-b967-889250d0a659/360p/drm-hls/master-2778916.165088541.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Statement and Conclusion / कथन और निष्कर्ष",
+            "id": "29-1",
+            "link": "https://appx-recordings.classx.co.in/drm/06aa91ce-0f8b-4f9e-a37d-6c73944f1dbc/360p/drm-hls/master-5330568.336275394.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Statement and Conclusion / कथन और निष्कर्ष",
+            "id": "29-2",
+            "link": "https://appx-recordings.classx.co.in/drm/85467bd3-f662-4146-8c6b-c4151b225113/360p/drm-hls/master-2424663.103899267.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Logical Statement / तार्किक कथन",
+            "id": "30-1",
+            "link": "https://appx-recordings.classx.co.in/drm/e98740a3-affc-465d-823b-873cf245ed73/360p/drm-hls/master-4204573.162413001.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Statement and Course of Action / कथन और कार्यवाही",
+            "id": "31-1",
+            "link": "https://appx-recordings.classx.co.in/drm/8aca969c-8004-416e-8ce8-266f5ce76d5f/360p/drm-hls/master-1220853.1230480268.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Cause and Effect / कारण और परिणाम",
+            "id": "32-1",
+            "link": "https://appx-recordings.classx.co.in/drm/5c808a40-7559-4a5b-a94f-be86f084130c/360p/drm-hls/master-4606293.528566206.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Assertion and Reason / अभिकथन और कारण",
+            "id": "33-1",
+            "link": "https://appx-recordings.classx.co.in/drm/528cc241-ef83-48c2-b389-3ae92e77524c/360p/drm-hls/master-944034.2947402103.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Classification / वर्गीकरण (Non Verbal)",
+            "id": "34-1",
+            "link": "https://appx-recordings.classx.co.in/drm/ab4f0551-766f-4967-acd7-2e9a5162d831/360p/drm-hls/master-2163609.57012649.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Embedded Figure / सन्निहित आकृति",
+            "id": "35-1",
+            "link": "https://appx-recordings.classx.co.in/drm/49486a7d-614c-4222-a51e-34758fc29cd0/360p/drm-hls/master-6134441.997937119.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Paper Cutting and Folding / पेपर काटना और मोड़ना",
+            "id": "36-1",
+            "link": "https://appx-recordings.classx.co.in/drm/0bee3c62-031f-431b-b301-8d497f578f3d/360p/drm-hls/master-3364738.972674177.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Paper Cutting and Folding / पेपर काटना और मोड़ना",
+            "id": "36-2",
+            "link": "https://appx-recordings.classx.co.in/drm/e84539a4-2724-4ef2-8522-eed9d90d43e5/360p/drm-hls/master-4281406.638860115.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Completion of Figure / आकृति पूर्ण करना",
+            "id": "37-1",
+            "link": "https://appx-recordings.classx.co.in/drm/197cce0c-4b88-44e4-8640-4c6582717520/360p/drm-hls/master-4247811.604404135.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Formation of Figure / आकृति का निर्माण",
+            "id": "38-1",
+            "link": "https://appx-recordings.classx.co.in/drm/0d2efcaf-5d1b-473c-aa2e-301d36b985a6/360p/drm-hls/master-193863.79498412597.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Grouping of Figures / आकृतियों का समूहीकारण",
+            "id": "39-1",
+            "link": "https://appx-recordings.classx.co.in/drm/fb5d8b8f-7681-41e5-9f99-31158ff5c4ff/360p/drm-hls/master-8350157.850281073.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Figure Matrix / आकृति आव्यूह",
+            "id": "40-1",
+            "link": "https://appx-recordings.classx.co.in/drm/ca90a033-7cec-4c13-9cf6-6fb1ea29b70c/360p/drm-hls/master-7620747.379375117.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "1. Dot Situation / डॉट स्थिति",
+            "id": "41-1",
+            "link": "https://appx-recordings.classx.co.in/drm/102ad7ad-78ad-4ae7-b8b5-dd3acad5ba25/360p/drm-hls/master-6603448.1330038775.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       }
+]

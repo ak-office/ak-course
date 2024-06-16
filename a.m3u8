@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-STREAM-INF:BANDWIDTH=378000,RESOLUTION=256x144,CODECS="avc1.640015"
+https://appx-recordings.livelearn.in/drm/ca8b0765-9893-45fb-80c3-df6bcd7ef4c7/240p/drm-hls/master.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=450000,RESOLUTION=638x360,CODECS="avc1.640015"
+https://appx-recordings.livelearn.in/drm/ca8b0765-9893-45fb-80c3-df6bcd7ef4c7/360p/drm-hls/master.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=763904,RESOLUTION=854x480,CODECS="avc1.640015"
+https://appx-recordings.livelearn.in/drm/ca8b0765-9893-45fb-80c3-df6bcd7ef4c7/480p/drm-hls/master.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=240280,RESOLUTION=1024x576,CODECS="avc1.640015"
+https://appx-recordings.livelearn.in/drm/ca8b0765-9893-45fb-80c3-df6bcd7ef4c7/720p/drm-hls/master.m3u8

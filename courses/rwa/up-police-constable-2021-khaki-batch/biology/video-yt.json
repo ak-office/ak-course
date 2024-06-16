@@ -1,0 +1,22 @@
+[
+
+ {    
+      "name": " Introduction and Branches of Biology ",
+      "id": "1-1",
+      "link": "https://www.youtube.com/embed/aRjse81Ye50",
+      "logo": "/assets/img/institute/rwa/video-list-logo.png"
+ },
+ {    
+      "name": " 1. कोशिका - Cell ",
+      "id": "2-1",
+      "link": "https://www.youtube.com/embed/Y-c_9yxHM4E",
+      "logo": "/assets/img/institute/rwa/video-list-logo.png"
+ },
+ {    
+      "name": " 2. कोशिका - Cell ",
+      "id": "2-2",
+      "link": "https://www.youtube.com/embed/af008Rxf0Ws",
+      "logo": "/assets/img/institute/rwa/video-list-logo.png"
+ }
+
+]

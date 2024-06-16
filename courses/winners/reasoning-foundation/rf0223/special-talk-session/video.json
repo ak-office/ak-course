@@ -1,0 +1,25 @@
+[
+
+       {    
+            "name": "1. Special Talk Session",
+            "description": "1 May 2023",
+            "id": "1",
+            "link": "https://appx-recordings.classx.co.in/drm/f5e1312a-e378-4e5d-843e-fdad35e9bea9/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "2. Special Talk Session",
+            "description": "2 June 2023",
+            "id": "2",
+            "link": "https://appx-recordings.classx.co.in/drm/eb5ae109-2f71-4504-a948-9a13a3235a53/360p/drm-hls/master_tunak_tunak_tun.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       },
+       {    
+            "name": "3. Special Talk Session",
+            "description": "27 June 2023",
+            "id": "3",
+            "link": "https://appx-recordings.classx.co.in/drm/782334c3-13b5-46ad-823e-a03be94ee65f/360p/drm-hls/master-6384958.219475972.m3u8.m3u8",
+            "logo": "/assets/img/institute/winners/video-list-logo.png"
+       }
+
+]
