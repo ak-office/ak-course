@@ -10,12 +10,12 @@ body {
 }
 
 .container {
-  max-width: 600px;
+  max-width: 400px;
   margin: 50px auto;
   background-color: #fff;
   padding: 40px;
   border-radius: 50px;
-  box-shadow: 0 0 10px rgb(255, 255, 255, 0.2);
+  box-shadow: 0 0 15px rgb(66, 255, 224, 0.8);
 }
 
 h2 {
@@ -70,6 +70,8 @@ button:hover {
   background-color: #d32f2f;
   cursor: pointer;
 }
+
+a{color: #000000;}
 
 a{color:#2284d4}
 
